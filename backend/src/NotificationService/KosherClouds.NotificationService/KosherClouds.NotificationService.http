@@ -1,6 +1,0 @@
-@KosherClouds.NotificationService_HostAddress = http://localhost:5120
-
-GET {{KosherClouds.NotificationService_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
